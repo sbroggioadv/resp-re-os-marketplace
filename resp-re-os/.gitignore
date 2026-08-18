@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+.aiox/
+.synapse/
+MEMORY.md
+.planning/
+dist/
+.entregaveis/

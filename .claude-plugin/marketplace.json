@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "resp-re-os-marketplace",
+  "description": "Marketplace oficial do plugin resp-re-os — Recurso Especial sob a Lei 15.484/2026 (CPC 1.035-A) e Recurso Extraordinário com repercussão geral (CPC 1.035). Sem onboarding. Warning, orquestradora e Quinta Corte.",
+  "owner": { "name": "IA Combativa" },
+  "plugins": [
+    {
+      "name": "resp-re-os",
+      "source": "./resp-re-os",
+      "description": "Corte superior: REsp com tópico de relevância (Lei 15.484/2026) e RE com repercussão geral. Sem onboarding. Não promete afetação nem conhecimento.",
+      "author": { "name": "IA Combativa" }
+    }
+  ]
+}

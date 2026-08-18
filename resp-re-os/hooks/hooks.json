@@ -1,0 +1,14 @@
+{
+  "SessionStart": [
+    {
+      "matcher": "",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "echo '[resp-re-os] Corte superior Lei 15.484/2026. Sem onboarding. Warning primeiro. Comandos: /corte /resp /re /relevancia /repercussao. Fecha por Suprema Corte R1-R4 + Quinta Corte (15.484 + RG).'",
+          "timeout": 5
+        }
+      ]
+    }
+  ]
+}
